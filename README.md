@@ -1,4 +1,4 @@
-# datastructure
+# Java datastructure
 Contains data structure part 
 
 Extracted directly from JDK7.0 API documentation.
@@ -27,6 +27,8 @@ Extracted directly from JDK7.0 API documentation.
   
   
  ## Classes
+ 
+ 
  | Name | Description |
 | --- | --- |
 |AbstractCollection<E>	|This class provides a skeletal implementation of the Collection interface, to minimize the effort required to implement this interface.|
